@@ -1,9 +1,9 @@
 {
   "pluginId": "neodex.sudoku",
   "repo": "NDesumeur/neodex-plugin-sudoku-phone",
-  "version": "1.0.0",
-  "sha256": "a941c97cba00f9fe2b1ed4ecab82f500ed09a58212ec6e76b93f792baa729b6e",
-  "approvedAt": "2026-11-18T18:56:04.144Z",
+  "version": "1.0.1",
+  "sha256": "736f27d42569482c68640ea6c5a7a131e3cafef6a53946f48c42620cdb128efe",
+  "approvedAt": "2026-11-19T23:26:38.658Z",
   "neobase": ">=4.0.0",
-  "signature": "mJasqmj3j8BOfalKmXSZ1rscv661vFNp4vcCMNO3XX/jawg3TTnQ/aGsQR5WWnWKSDRv4+xfLqHZ+sNEh3EhCQ=="
+  "signature": "o94SGLKhYT5Gy2FbroIFuK8XLhCo3O+mfsLVuu18WgSd+LRrJkZOfKZ8BMnzMkANKj0Df40421FnBL5oHaXTCQ=="
 }
